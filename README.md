@@ -17,7 +17,7 @@ Diese Web-App hilft Schulen dabei, Projekte nach einem klaren Entscheidungsbaum 
 ## 🛠️ Nutzung
 
 1. Öffne die App im Browser:  
-   👉 [Projektpriorisierung starten](https://deinname.github.io/projektpriorisierung/)
+   👉 [Projektpriorisierung starten](https://pfeiffse.github.io/projektpriorisierung/)
 
 2. Fülle das Formular aus:
    - Projektname und Beschreibung
@@ -46,5 +46,5 @@ Dieses Projekt steht unter der MIT-Lizenz. Nutzung und Anpassung sind ausdrückl
 
 ---
 
-**Erstellt von:** [Sebastian Laube](https://github.com/seblaube)  
+**Erstellt von:** [Sebastian Pfeiffer](https://github.com/pfeiffse)  
 **Letzte Aktualisierung:** 08.11.2025
